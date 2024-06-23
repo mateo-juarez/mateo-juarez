@@ -14,5 +14,5 @@ Soy estudiante de la Tecnicatura Superior en Desarrollo de Software con un inter
 Soy una persona comprometida, autodidacta y resolutiva. Busco nuevos retos y aprendizajes constantemente. Me parece muy interesante compartir conocimientos y experiencias en un grupo de trabajo: disfruto resolver problemas y ayudar a mis compañeros. Estoy interesado en formar parte de un equipo que potencie mis habilidades y me brinde oportunidades para seguir aprendiendo.
 
 ### 📫 Conéctate conmigo
-- [LinkedIn](www.linkedin.com/in/mateojuarez-developer)
+- [LinkedIn](https://www.linkedin.com/in/mateojuarez-developer/)
 - [Correo Electrónico](mailto:mateoporo04@gmail.com)
