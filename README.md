@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola, soy Mateo Juarez 👋
 
-<!--
-**mateo-juarez/mateo-juarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la Tecnicatura Superior en Desarrollo de Software con un interés particular en el desarrollo de software y la programación. Actualmente, estoy trabajando como desarrollador junior y me dedico a aprender y aplicar los fundamentos de programación en Python.
 
-Here are some ideas to get you started:
+### 🌱 Lo que estoy aprendiendo y aplicando:
+- **Sintaxis básica**: Identación y bloques de código, crear y nombrar variables.
+- **Funciones nativas de Python**: `print()`, `int()`, `str()` e `input()`.
+- **Operadores**: De asignación, aritméticos, relacionales y lógicos.
+- **Tipos y estructuras**: `int`, `bool`, `float`, `string` y `list`.
+- **Estructuras de control**: `if`, `for`, `range`, `while`.
+- **Funciones**: Paso por valor y por referencia, uso de `args` y `kwargs`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Sobre mí
+Soy una persona comprometida, autodidacta y resolutiva. Busco nuevos retos y aprendizajes constantemente. Me parece muy interesante compartir conocimientos y experiencias en un grupo de trabajo: disfruto resolver problemas y ayudar a mis compañeros. Estoy interesado en formar parte de un equipo que potencie mis habilidades y me brinde oportunidades para seguir aprendiendo.
+
+### 📫 Conéctate conmigo
+- [LinkedIn](www.linkedin.com/in/mateojuarez-developer)
+- [Correo Electrónico](mailto:mateoporo04@gmail.com)
